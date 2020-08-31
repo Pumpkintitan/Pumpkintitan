@@ -7,5 +7,5 @@ Hi! I'm **Pumpkintitan**
 
 #### Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pumpkintitan&layout=compact)
-![@henry232323](https://github-readme-stats.vercel.app/api?username=Pumpkintitan&count_private=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pumpkintitan&theme=tokyonight)
+![@henry232323](https://github-readme-stats.vercel.app/api?username=Pumpkintitan&count_private=true&show_icons=true&theme=tokyonight)
