@@ -9,8 +9,8 @@
 
 - 📫 How to reach me [**enrico.blackwell@gmail.com**](mailto:enrico.blackwell@gmail.com)
 
-<p><img align="left" src="https://github-readme-stats-three-murex.vercel.app/api/top-langs/?username=pumpkintitan&layout=compact&hide=html&theme=vue" alt="pumpkintitan" /></p>
-<p><img align="center" src="https://github-readme-stats-three-murex.vercel.app/api?username=pumpkintitan&count_private=true&show_icons=true&theme=vue&include_all_commits=true" alt="pumpkintitan" /></p>
+<p><img align="left" src="https://github-readme-stats-three-murex.vercel.app/api/top-langs/?username=pumpkintitan&layout=compact&hide=html&theme=vue" alt="pumpkintitan" />
+&nbsp;<img align="center" src="https://github-readme-stats-three-murex.vercel.app/api?username=pumpkintitan&count_private=true&show_icons=true&theme=vue&include_all_commits=true" alt="pumpkintitan" /></p>
 
 <p align="center">
 <a href="https://linkedin.com/in/enrico-blackwell-ab5677168" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="enrico-blackwell-ab5677168" height="30" width="30" /></a>
