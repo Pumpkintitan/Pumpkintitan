@@ -7,6 +7,8 @@
 
 - 📫 How to reach me [**enrico.blackwell@gmail.com**](mailto:enrico.blackwell@gmail.com)
 
+### :zap: Recent Activity
+
 <!--START_SECTION:activity-->
 
 <p><img align="left" src="https://github-readme-stats-three-murex.vercel.app/api/top-langs/?username=pumpkintitan&layout=compact&hide=html&theme=vue" alt="pumpkintitan" /></p>
