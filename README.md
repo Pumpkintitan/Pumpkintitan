@@ -11,6 +11,4 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/enrico-blackwell-ab5677168" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="enrico-blackwell-ab5677168" height="30" width="30" /></a>
-<a href="https://kaggle.com/enricoblackwell" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="enricoblackwell" height="30" width="30" /></a>
-<a href="https://instagram.com/1enrico.b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="1enrico.b" height="30" width="30" /></a>
 </p>
