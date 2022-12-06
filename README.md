@@ -8,7 +8,7 @@
 
 
 ![Pumpkintitan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pumpkintitan&show_icons=true&theme=vue-dark&count_private=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Pumpkintitan&theme=vue-dark&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Pumpkintitan&theme=vue-dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pumpkintitan&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
